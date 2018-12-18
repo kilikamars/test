@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(97): error C2440: '=' : impossible de convertir de 'double (__cdecl *)(int,double *)' en 'double (__cdecl *)(std::vector<double,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(97): note: Cette conversion requiert reinterpret_cast, un cast de style C ou un cast de style fonction
+c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(100): error C2440: '=' : impossible de convertir de 'double (__cdecl *)(int,double *)' en 'double (__cdecl *)(std::vector<double,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(100): note: Cette conversion requiert reinterpret_cast, un cast de style C ou un cast de style fonction
+c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(103): error C2440: '=' : impossible de convertir de 'double (__cdecl *)(int,double *)' en 'double (__cdecl *)(std::vector<double,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\zeige\desktop\ia\gsa-master\gsa\gsa\main.cpp(103): note: Cette conversion requiert reinterpret_cast, un cast de style C ou un cast de style fonction

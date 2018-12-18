@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\zeige\desktop\ia\gsa-master\gsa.ndim.mod\gsa\main.cpp(19): warning C4244: 'initialisation' : conversion de 'INT_PTR' en 'int', perte possible de données
+c:\users\zeige\desktop\ia\gsa-master\gsa.ndim.mod\gsa\main.cpp(90): warning C4244: '=' : conversion de 'LRESULT' en 'int', perte possible de données
+c:\users\zeige\desktop\ia\gsa-master\gsa.ndim.mod\gsa\main.cpp(92): warning C4244: '=' : conversion de 'LRESULT' en 'int', perte possible de données
+c:\users\zeige\desktop\ia\gsa-master\gsa.ndim.mod\gsa\main.cpp(120): warning C4244: '=' : conversion de 'LRESULT' en 'int', perte possible de données
+c:\users\zeige\desktop\ia\gsa-master\gsa.ndim.mod\gsa\main.cpp(223): warning C4244: 'initialisation' : conversion de 'LRESULT' en 'int', perte possible de données
+  GSA.vcxproj -> C:\Users\ZEIGE\Desktop\IA\GSA-master\GSA.ndim.mod\x64\Debug\GSA.exe
