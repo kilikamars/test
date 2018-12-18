@@ -12,7 +12,7 @@
   };
   
 //=======================================================================
-  class Problem
+  class Problem //fonctions objectives 
   {
 	public:
 		Problem();
