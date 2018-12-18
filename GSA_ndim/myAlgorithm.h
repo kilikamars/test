@@ -120,20 +120,20 @@ class Solution
 	  	void initialize();
  
 		// creates a array with fitness of all solutions in MyAlgorithm and its position in the MyAlgorithm
-        void evaluate();
+        	void evaluate();
 	 
 	 	const vector<Solution*>& solutions() const;
 		unsigned int upper_cost() const;
 		unsigned int lower_cost() const;
 		Solution& solution(const unsigned int index) const;
-        vector<struct particle>&  fitness_values();
+       		vector<struct particle>&  fitness_values(); 
 		double fitness(const unsigned int index) const;
          
 		 
-		double best_cost() const;
+		double best_cost() const; 
 		double worst_cost() const;
-		Solution& best_solution() const;
-		Solution& worst_solution() const;
+		Solution& best_solution() const; //meilleur solution 
+		Solution& worst_solution() const;//pire solution
 		 
 		void evolution(int iter); /*makes an evolution step*/
 
