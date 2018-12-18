@@ -27,7 +27,7 @@
 
 		Direction direction () const; //Maximize or Minimize
 		int dimension() const;		
-		double LowerLimit, UpperLimit;
+		double LowerLimit, UpperLimit; //restrictions minimales et maximales
 
 	private:
 
@@ -36,7 +36,7 @@
 //=======================================================================
 class Solution
   {
-	//contient la déclaration d'une solution
+	//contient la dÃ©claration d'une solution
 	public:
 		Solution (const Problem& pbm);
 		Solution (const Solution& sol);
@@ -73,7 +73,7 @@ class Solution
 
    class SetUpParams
   {
-  	//ici vous devez mettre quelques paramètres tels que :
+  	//ici vous devez mettre quelques paramÃ¨tres tels que :
   	
 	private:
 		unsigned int   _independent_runs;         //number of independent runs
